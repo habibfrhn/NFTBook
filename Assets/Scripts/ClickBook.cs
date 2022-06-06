@@ -38,8 +38,7 @@ public class ClickBook : MonoBehaviour
 
     // Update is called once per frame    
     void Update() {
-        
-        
+
         if(reset)
         {
             resetLerp();
