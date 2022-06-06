@@ -68,18 +68,13 @@ public class ClickBook : MonoBehaviour
                 {   
                     if(hit.transform.tag == "Right")
                     {
-                        animator.SetBool(count.ToString(), true);
                         lerping = true;
                         reset = true;
                         count++;
-                        Debug.Log("right " + count);
                     }
                     if(hit.transform.tag == "Left")
                     {
                         count--;
-                        Debug.Log("Left");
-                        animator.SetBool(count.ToString(), false);
-
                         if(count<=0)
                         {
                         count=0;
@@ -94,10 +89,6 @@ public class ClickBook : MonoBehaviour
                     if(count== 28)
                         {
                         count=0;
-                        for(int i=28; i>=-1;i--)
-                        {
-                        animator.SetBool(i.ToString(), false);
-                        }
                         lerping = false;
                         reset = true;
                         }
