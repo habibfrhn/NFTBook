@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 19b74224e66f3b64f84ef7651a16a369
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 7619103175741854624
+    second: Armature.010|Armature.001Action
+  - first:
+      74: 2027891555959070032
+    second: Armature.010|Armature.001Action.001
+  - first:
+      74: -8766239491235920888
+    second: Armature.010|Armature.001Action.002
+  - first:
+      74: -3020607722143908491
+    second: Armature.010|Armature.001Action.003
+  - first:
+      74: 6965662064276990772
+    second: Armature.010|Armature.001Action.004
+  - first:
+      74: 5614279048949193685
+    second: Armature.010|Armature.001Action.005
+  - first:
+      74: -8666922105487624935
+    second: Armature.010|Armature.001Action.006
+  - first:
+      74: 9222418560032028292
+    second: Armature.010|Armature.001Action.007
+  - first:
+      74: -1828805223818083682
+    second: Armature.010|Armature.001Action.008
+  - first:
+      74: -5786624152664097089
+    second: Armature.010|Armature.001Action.009
+  - first:
+      74: 5103432309222880104
+    second: Armature.010|Armature.001Action.010
+  - first:
+      74: 7020303536791391062
+    second: Armature.010|Armature.001Action.011
+  - first:
+      74: -1905225371967438923
+    second: Armature.010|Armature.001Action.012
+  - first:
+      74: -5478739289260193508
+    second: Armature.010|Armature.001Action.013
+  - first:
+      74: 1992408559141598186
+    second: Armature.010|Armature.001Action.014
+  - first:
+      74: 7434573302681206725
+    second: Armature.010|Armature.001Action.015
+  - first:
+      74: -2535045854906447282
+    second: Armature.010|Armature.001Action.016
+  - first:
+      74: 3538850077624935216
+    second: Armature.010|ArmatureAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature.010|Armature.001Action.016
+      takeName: Armature.010|Armature.001Action.016
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 44b92ebfe9188e746a39a2627b287ac9
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 5264671303537790410
+    second: Armature.023|Armature.001Action
+  - first:
+      74: 4020812793106239207
+    second: Armature.023|Armature.001Action.001
+  - first:
+      74: 6586357810126014191
+    second: Armature.023|Armature.001Action.002
+  - first:
+      74: 349760567254353395
+    second: Armature.023|Armature.001Action.003
+  - first:
+      74: -7121335817357740950
+    second: Armature.023|Armature.001Action.004
+  - first:
+      74: 1934908248525420995
+    second: Armature.023|Armature.001Action.005
+  - first:
+      74: -6562931614410471541
+    second: Armature.023|Armature.001Action.006
+  - first:
+      74: 5168832095149292521
+    second: Armature.023|Armature.001Action.007
+  - first:
+      74: 6449424040896635039
+    second: Armature.023|Armature.001Action.008
+  - first:
+      74: -8408029183776917284
+    second: Armature.023|Armature.001Action.009
+  - first:
+      74: -6323096723724142176
+    second: Armature.023|Armature.001Action.010
+  - first:
+      74: -6025453750262634419
+    second: Armature.023|Armature.001Action.011
+  - first:
+      74: -4421544181563583124
+    second: Armature.023|Armature.001Action.012
+  - first:
+      74: -4457260122998262171
+    second: Armature.023|Armature.001Action.013
+  - first:
+      74: 7611142227459032535
+    second: Armature.023|Armature.001Action.014
+  - first:
+      74: 974845498704105732
+    second: Armature.023|Armature.001Action.015
+  - first:
+      74: 8232295155824796687
+    second: Armature.023|Armature.001Action.016
+  - first:
+      74: 7924272512289692321
+    second: Armature.023|Armature.001Action.017
+  - first:
+      74: 8347157034264478694
+    second: Armature.023|Armature.001Action.018
+  - first:
+      74: 1692350754020082531
+    second: Armature.023|Armature.001Action.019
+  - first:
+      74: -2217307021078076265
+    second: Armature.023|Armature.001Action.020
+  - first:
+      74: 8300789211146897176
+    second: Armature.023|Armature.001Action.021
+  - first:
+      74: 4648134069057885604
+    second: Armature.023|Armature.001Action.022
+  - first:
+      74: -292419002212279123
+    second: Armature.023|Armature.001Action.023
+  - first:
+      74: 6550857308883174295
+    second: Armature.023|Armature.001Action.024
+  - first:
+      74: 5524684454784125481
+    second: Armature.023|Armature.001Action.025
+  - first:
+      74: -2142859011102727577
+    second: Armature.023|Armature.001Action.026
+  - first:
+      74: -7891123595791140508
+    second: Armature.023|Armature.001Action.027
+  - first:
+      74: -7823676177565743801
+    second: Armature.023|Armature.001Action.028
+  - first:
+      74: 5216815316677750552
+    second: Armature.023|Armature.001Action.029
+  - first:
+      74: -5819848982350755425
+    second: Armature.023|ArmatureAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature.023|Armature.001Action.029
+      takeName: Armature.023|Armature.001Action.029
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
