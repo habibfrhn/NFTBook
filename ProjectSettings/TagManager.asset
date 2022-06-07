@@ -8,6 +8,7 @@ TagManager:
   - Left
   - Right
   - Cover
+  - Middle
   layers:
   - Default
   - TransparentFX

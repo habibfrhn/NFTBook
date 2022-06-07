@@ -40,7 +40,7 @@ public class ClickPage : MonoBehaviour
                         Debug.Log("Left");
                         animator.SetBool(count.ToString(), false);
                     }
-                    if(count== 28)
+                    if(count== 28 || hit.transform.tag == "Middle" )
                         {
                         count=0;
                         for(int i=28; i>=-1;i--)

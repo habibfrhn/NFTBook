@@ -85,7 +85,7 @@ public class ClickBook : MonoBehaviour
                         reset = true;
                         }
                     }
-                    if(count== 28)
+                    if(count== 28 || hit.transform.tag == "Middle")
                         {
                         count=0;
                         lerping = false;
