@@ -6,7 +6,8 @@ public class Rotation : MonoBehaviour
 {
     private float _speed=2;
     private bool rotate;
-    private int count;
+
+    int count;
 
     void Awake()
     {

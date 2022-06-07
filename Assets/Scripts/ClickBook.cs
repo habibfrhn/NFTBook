@@ -10,7 +10,7 @@ public class ClickBook : MonoBehaviour
     private int count;
 
     private Vector3 endPosition = new Vector3(0.98f, 2.15f, -0.03f);
-    private Vector3 originalPosition = new Vector3( 0f, 2.15f, -0.03f);
+    private Vector3 originalPosition = new Vector3( 0f, 2.8f, -0.03f);
     private Vector3 startPosition;
     private float desiredDuration = 1.5f;
     private float elapsedTime;
