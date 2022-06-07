@@ -55,7 +55,7 @@ public class Rotation : MonoBehaviour
                         rotate=true;
                         }
                     }
-                    if(count== 28)
+                    if(count== 28 || hit.transform.tag == "Middle")
                         {
                         rotate=true;
                         count=0;
